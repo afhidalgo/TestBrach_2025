@@ -1,6 +1,12 @@
-hola mundo, soy usuario_1
-agrego segunda línea a file
-n agrego tercera línea a file
-n agrego tercera línea a file
+======== Código usuario 1 (podría ser una función o clase en python u otro lenguaje (C, C++, C#, Java, etc.) desarrollada por el usuario 1)
+hola mundo, este es el códido desarrollado por el usuario_1
 
- agrego tercera línea a file
+
+======== Código usuarop 2 (podría ser una función o clase en python u otro lenguaje (C, C++, C#, Java, etc.) desarrollada por el usuario 2)
+hola mundo, este es el códido desarrollado por el usuario_2
+
+
+
+========= Main code (este bloque de código es compartido por los usuarios)
+En un programa en python, esta región del código podría representar el código principal donde se utilizan las las funciones del usuario 1 y 2
+
