@@ -6,10 +6,15 @@ Modificaciones necesarias del student 1
 ======== Código usuarop 2 (podría ser una función o clase en python u otro lenguaje (C, C++, C#, Java, etc.) desarrollada por el usuario 2)
 hola mundo, este es el códido desarrollado por el usuario_2
 
-
+Modificación studentB function2(x,y,z)
 
 ========= Main code (este bloque de código es compartido por los usuarios)
 En un programa en python, esta región del código podría representar el código principal donde se utilizan las las funciones del usuario 1 y 2
 
-llamo 
-z = funcion1(x,y)
+
+llamo a función de studentA
+zz = function1(x,y)
+
+llamo a función studetB
+
+zzz = function2(x,y,zz)
