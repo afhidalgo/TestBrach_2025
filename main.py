@@ -8,5 +8,7 @@ def main():
     c = utilA.sumaA(a, b)
     print(f"la suma de a + b es: {c}")
 
+    d = utilA.sumaA(c, b)
+
 if __name__ == "__main__":
     main()
