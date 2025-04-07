@@ -21,6 +21,8 @@ def main():
 
     e = utilB.restaB(a, b) - utilA.sumaA(c, b)
 
+    print("Te saluda B")
+
 
 if __name__ == "__main__":
     main()
