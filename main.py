@@ -15,8 +15,8 @@ def main():
     d1 = utilB.restaB(a, b)
     print(f"la resta de a + b es: {d1}")
 
-    print("Hola mundo desde user A")
-
+    print("Hola mundo desde user B y A")
+    print("Saludan los dos")
 
 if __name__ == "__main__":
     main()
