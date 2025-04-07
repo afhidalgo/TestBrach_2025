@@ -19,6 +19,8 @@ def main():
     print("Hola mundo, somos A y B")
     print("Hola mundo, somos equipo AB")
 
+    e = utilB.restaB(a, b) - utilA.sumaA(c, b)
+
 
 if __name__ == "__main__":
     main()
