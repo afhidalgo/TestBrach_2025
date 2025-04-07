@@ -16,6 +16,7 @@ def main():
     print(f"la resta de a + b es: {d1}")
 
     print("Hola mundo desde user A")
+    print("Hola mundo, somos equipo AB")
 
 
 if __name__ == "__main__":
