@@ -9,8 +9,12 @@ def main():
     c = utilA.sumaA(a, b)
     print(f"la suma de a + b es: {c}")
 
-    d = utilB.restaB(a, b)
-    print(f"la resta de a + b es: {d}")
+
+    d = utilA.sumaA(c, b)
+
+    d1 = utilB.restaB(a, b)
+    print(f"la resta de a + b es: {d1}")
+
 
 if __name__ == "__main__":
     main()
